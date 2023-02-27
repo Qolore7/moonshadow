@@ -33,6 +33,7 @@
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
+- [Credits](#credits)
 
 # Introduction
 
