@@ -21,7 +21,7 @@ Added:
 - lilebonymace's patches (patch for Choice is Yours and House of Horrors Expansion)
 
 Removed:
-Calcemo Has Standards (essentially replaced by Choice is Yours)
+- Calcemo Has Standards (essentially replaced by Choice is Yours)
 
 Updated:
 - Inventory Interface Information Injector
