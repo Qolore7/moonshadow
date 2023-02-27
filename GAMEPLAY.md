@@ -26,14 +26,6 @@ This guide highlights major mods included in Moonshadow in the following categor
 - [Gameplay Changes](#gameplay-changes)
   - [Overhauls](#overhauls)
   - [New Mechanics](#new-mechanics)
-- [User Interface and Camera](#user-interface-and-camera)
-- [Gear and Items](#gear-and-items)
-- [Followers and Companions](#followers-and-companions)
-- [Player Homes](#player-homes)
-- [Quests and Adventures](#quests-and-adventures)
-  - [New Quests](#new-quests)
-  - [Quest Changes](#quest-changes)
-- [Locations and Detail](#locations-and-detail)
 
 Icons in this guide:
 
