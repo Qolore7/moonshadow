@@ -132,7 +132,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Pagefile in prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger [page file](https://github.com/Lost-Outpost/dragonborn/blob/main/PAGEFILE.md)"
 
 ## Skyrim GOG
 
@@ -156,10 +156,8 @@ Make sure the dropdown box on the right is set to `Moonshadow` and press the Run
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
+SUPPORT FOR MODIFIED LISTS WILL NOT BE GIVEN!
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Moonshadow Github](https://github.com/Qolore7/moonshadow/issues). Please provide as much info as you can (screenshots are great).
+If you find an issue, please provide details in the [Moonshadow Github](https://github.com/Qolore7/moonshadow/issues) or in the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server. Please provide as much info as you can.
 
-Support is offered in the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server.
-
-Thanks to [Guitarninja2](https://github.com/Lost-Outpost/dragonborn/commits?author=Guitarninja2) for the ReadMe format taken from their wonderful [Dragonborn](https://github.com/Lost-Outpost/dragonborn) modlist
+Thanks to [Guitarninja2](https://github.com/Lost-Outpost/dragonborn/commits?author=Guitarninja2) for the read-me format taken from their wonderful [Dragonborn](https://github.com/Lost-Outpost/dragonborn) modlist.
