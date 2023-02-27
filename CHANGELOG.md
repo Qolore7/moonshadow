@@ -28,8 +28,10 @@ Updated:
 - Inventory Interface Information Injector
 - Diverse Dragon's Tongue
 - Simple Snow Improvements
+- NPCs Wear Amulets of Mara
 - Moonshadow Patches (various patches for Choice is Yours)
 - Tex/DynDO Outputs - Fixed tree pop-in
+- Fixed installer issue
 
 
 ## Version 1.0.0
