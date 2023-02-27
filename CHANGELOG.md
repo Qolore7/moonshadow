@@ -22,11 +22,14 @@ Added:
 
 Removed:
 - Calcemo Has Standards (essentially replaced by Choice is Yours)
+- Happy Little Trees - Ivy on Trees (caused issues with Tree LOD)
 
 Updated:
 - Inventory Interface Information Injector
 - Diverse Dragon's Tongue
+- Simple Snow Improvements
 - Moonshadow Patches (various patches for Choice is Yours)
+- Tex/DynDO Outputs - Fixed tree pop-in
 
 
 ## Version 1.0.0
