@@ -106,7 +106,7 @@ The download and installation process can take a little while (an hour or more) 
 
 1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Moonshadow"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Moonshadow` from the Wabbajack Browse Modlists page
+3. Download the latest release of `Moonshadow` from the [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/85896) page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
