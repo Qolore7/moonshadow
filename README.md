@@ -161,3 +161,5 @@ If you find an issue, you can see if it is already on the list of [known issues]
 For issues that aren't yet [known](HELP.md), you can provide details in the [Moonshadow Github](https://github.com/Qolore7/moonshadow/issues). Please provide as much info as you can (screenshots are great).
 
 Support is offered in the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server.
+
+Thanks to [Guitarninja2](https://github.com/Lost-Outpost/dragonborn/commits?author=Guitarninja2) for the ReadMe format taken from their wonderful [Dragonborn](https://github.com/Lost-Outpost/dragonborn) modlist
