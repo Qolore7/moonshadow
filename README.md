@@ -37,7 +37,6 @@
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
-- [Dragonborn Team](#dragonborn-team)
 
 # Introduction
 
@@ -162,4 +161,4 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Moonshadow Github](https://github.com/Qolore7/moonshadow/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Dragonborn Discord support channel to have discussions with our knowledgeable community members. Support is offered in the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server.
+Support is offered in the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server.
