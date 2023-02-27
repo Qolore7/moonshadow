@@ -27,14 +27,7 @@ This guide highlights major mods included in Moonshadow in the following categor
   - [Overhauls](#overhauls)
   - [New Mechanics](#new-mechanics)
 
-Icons in this guide:
-
-- :ledger: indicates Moonshadow configuration notes
-- :video_game: indicates gameplay tips
-
 ## Hotkeys
-
-### Gameplay Hotkeys
 
 W.I.P.
 
@@ -44,11 +37,9 @@ W.I.P.
 
 Moonshadow is built around a few core mods that overhaul the traditional gameplay and progression of Skyrim without adding unfair, confusing, or poorly-implemented mechanics/features. 
 
-- [Master of One](https://www.nexusmods.com/skyrimspecialedition/mods/47024) - A perk overhaul that transforms perks from generic character progression into a means to craft unique and specialized builds. Perks are no longer flat bonuses, but rather come with buffs and debuffs to encourage specialization and thorough character building. Completely transforms character building and progression whilst only utilizing the vanilla perk and leveling system.
+- [Master of One](https://www.nexusmods.com/skyrimspecialedition/mods/47024) - A perk overhaul that transforms perks from generic character progression into a means to craft unique and specialized builds. Perks are no longer flat bonuses, but rather come with buffs and debuffs to encourage specialization and thorough character building. Completely transforms character building and progression whilst only utilizing the vanilla perk and leveling system. All perks have five ranks. The first rank of any given perk will not have any debuffs. The remaining four ranks will provide steady buffs but exponentially increasing debuffs as well. Maxing out every perk in any given tree might not be best for your character, so be careful!
 
-  > :ledger: With Moonshadow, you will start the game with two free perk points. Choose wisely! You will also recieve two perk points per level which is the value recommended by Master of One. This is configurable via the MCM.
-  
-  > :video_game: All perks have five ranks. The first rank of any given perk will not have any debuffs. The remaining four ranks will provide steady buffs but exponentially increasing debuffs as well. Maxing out every perk in any given tree might not be best for your character, so be careful!
+  > With Moonshadow, you will start the game with two free perk points. Choose wisely! You will also recieve two perk points per level which is the value recommended by Master of One. This is configurable via the MCM.
 
 - [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) - An overhaul of the racial abilities and bonuses in the same vain as Master of One. All races have positives and negatives.
 
