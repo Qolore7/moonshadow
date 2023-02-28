@@ -13,7 +13,11 @@
 
 # Changelog
 
-## Version 1.0.1 (unreleased)
+## Version 1.0.1a
+
+- Fixed issue with the Steam Creation Kit messing up the install
+
+## Version 1.0.1
 
 Added:
 - The Choice is Yours
