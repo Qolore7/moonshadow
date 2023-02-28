@@ -13,6 +13,11 @@
 
 # Changelog
 
+## Version 1.0.1b
+
+- Moved over to using the custom stock game folder feature of Wabbajack to avoid further issues with install (sorry for the growing pains! hopefully there won't need to be too many more updates like this)
+- Unfortunately this does mean that the GOG version of the game is temporarily unsupported. I hope to add support back at some point.
+
 ## Version 1.0.1a
 
 - Fixed issue with the Steam Creation Kit messing up the install
