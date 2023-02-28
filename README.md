@@ -29,7 +29,6 @@
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-  - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
@@ -131,10 +130,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 ### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger [page file](https://github.com/Lost-Outpost/dragonborn/blob/main/PAGEFILE.md)"
-
-## Skyrim GOG
-
-This modlist can be played on the GOG version of Skyrim. You will need to do a couple of extra steps which are listed [here](GOG.md)
 
 # Updating
 
