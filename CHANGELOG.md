@@ -16,6 +16,7 @@
 ## Version 1.0.2 
 - Added Juniper by Mari (2k mesh replacer version)
 - Added Skyrim and Solstheim Paper Maps by Mirhayasu for FWMF (just Solstheim map)
+- Added Better Windhelm Ground Meshes (Icy Windhelm version)
 - Updated Mysticism
 - Fixed clipping objects at Skyforge
 - Tweaked difficulty damage mults to that of Valravn (faster paced combat that B&B default but stil balanced imo)
