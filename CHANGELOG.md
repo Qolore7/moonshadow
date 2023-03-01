@@ -13,6 +13,14 @@
 
 # Changelog
 
+## Version 1.0.2 
+- Added Juniper by Mari (2k mesh replacer version)
+- Added Skyrim and Solstheim Paper Maps by Mirhayasu for FWMF (just Solstheim map)
+- Updated Mysticism
+- Fixed clipping objects at Skyforge
+- Tweaked difficulty damage mults to that of Valravn (faster paced combat that B&B default but stil balanced imo)
+- Fixed more installer issues (hopefully)
+
 ## Version 1.0.1b
 
 - Moved over to using the custom stock game folder feature of Wabbajack to avoid further issues with install (sorry for the growing pains! hopefully there won't need to be too many more updates like this)
