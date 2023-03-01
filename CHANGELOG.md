@@ -19,6 +19,7 @@
 - Updated Mysticism
 - Fixed clipping objects at Skyforge
 - Tweaked difficulty damage mults to that of Valravn (faster paced combat that B&B default but stil balanced imo)
+- Ran Lowered Hands through CAO to fix non-coverted anims, also hid h2h anims so there's no more weirdness with fists
 - Fixed more installer issues (hopefully)
 
 ## Version 1.0.1b
