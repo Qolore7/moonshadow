@@ -45,7 +45,7 @@ You can browse the full list contents [here](https://loadorderlibrary.com/lists/
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ## Minimum Specs
-Moonshadow was built with prioritizing performance over graphical fidelity in mind. In my opinion, it is easier for users with high-end PCs to add to the list than it is for low-end users to remove from the list. That being said, there are plenty of graphics mods used to greatly enhance the game's visuals without tanking performance. Moonshadow is built for a steady 60 FPS on mid-tier PCs and even potentially 144 FPS on high-end PCs. I get a mostly steady 60 FPS with my Ryzen 7 1700, RX 570, and 16gb of RAM. 
+Moonshadow was built with prioritizing performance over graphical fidelity in mind. In my opinion, it is easier for users with high-end PCs to add to the list than it is for low-end users to remove from the list. That being said, there are plenty of graphics mods used to greatly enhance the game's visuals without tanking performance. Moonshadow is built for a steady 60 FPS on mid-tier PCs and 144 FPS on high-end PCs. I get a mostly steady 60 FPS with my Ryzen 7 1700, GTX 1060, and 16gb of RAM. 
 
 ## Community
 
