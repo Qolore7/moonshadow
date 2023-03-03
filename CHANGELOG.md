@@ -13,6 +13,37 @@
 
 # Changelog
 
+## Version 1.0.3 (unreleased)
+
+You will get a warning about a lot of missing plugins with this update, but don't worry! Redundant plugins have just been removed, some plugins merged, and others renamed so everything is still there.
+
+Added:
+- NPCs Ain't Hachikos 
+- Robber's Gorge Fixes
+- Thalmor Don't Report Crimes to Stormclocks
+- Truly Neutral Prisoners
+- More Sensible Quatermasters
+- Tavern Menu Remade
+- Aela Doesn't Approach You If You Don't Help
+- CC Fishing No Free Scaled Armor
+- Canis Hysteria 
+- No More Silver In Castle Volkihar
+- Raven Rock Building Tweaks
+- Cultured Orc Furniture
+- Whiterun Watchtower Doesn't Start Broken - Siberpunk's Cut
+- Capitals and Towns of Skyrim - CTFO Patch
+- HD Reworked Horses
+- A handful of random simple xEdit patches that were missed on the first go-around 
+
+Updated:
+- Diverse Cathedral Dragons Tongue
+- Immersive Folded Hands
+- NPC Animation Remix
+- Inventory Interface Information Injector
+- Moonshadow Patches
+- Moonshadow Synthesis
+- Moonshadow Nemesis
+
 ## Version 1.0.2 
 - Added Juniper by Mari (2k mesh replacer version)
 - Added Skyrim and Solstheim Paper Maps by Mirhayasu for FWMF (just Solstheim map)
