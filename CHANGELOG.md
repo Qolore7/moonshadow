@@ -15,9 +15,10 @@
 
 ## Version 1.0.3 (unreleased)
 
-You will get a warning about a lot of missing plugins with this update, but don't worry! Redundant plugins have just been removed, some plugins merged, and others renamed so everything is still there.
+Should be save safe. You will get a warning about a lot of missing plugins on load with this update, but don't worry! Redundant plugins have just been removed, some plugins merged, and others renamed so everything is still there.
 
 Added:
+- SimonRim Attack Speed Fix
 - NPCs Ain't Hachikos 
 - Robber's Gorge Fixes
 - Thalmor Don't Report Crimes to Stormclocks
@@ -33,6 +34,13 @@ Added:
 - Whiterun Watchtower Doesn't Start Broken - Siberpunk's Cut
 - Capitals and Towns of Skyrim - CTFO Patch
 - HD Reworked Horses
+- PELTAPALOOZA
+- RUGNAROK
+- Spaghetti's Dragon Bridge
+- The Dragon Bridge
+- Unique Red Wave
+- Mystireous Dawn's HQ Imperial Fort
+- Happy Little Trees - Vanilla Style Snow
 - A handful of random simple xEdit patches that were missed on the first go-around 
 
 Updated:
@@ -40,6 +48,9 @@ Updated:
 - Immersive Folded Hands
 - NPC Animation Remix
 - Inventory Interface Information Injector
+- Landscape and Water Fixes
+- Favor Jobs Overhaul
+- Forceful Tongue
 - Moonshadow Patches
 - Moonshadow Synthesis
 - Moonshadow Nemesis
