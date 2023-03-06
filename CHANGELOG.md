@@ -13,9 +13,11 @@
 
 # Changelog
 
-## Version 1.0.3 (unreleased)
+## Version 1.1.0 (unreleased)
 
-Should be save safe. You will get a warning about a lot of missing plugins on load with this update, but don't worry! Redundant plugins have just been removed, some plugins merged, and others renamed so everything is still there.
+The first of (hopefully very few) major and non-save safe updates. Sorry to anyone who already started a playthrough! If you are fond of your character however you can just stick with version 1.0.2, it is still perfectly functional. Perhaps the biggest change is removing Skyrim Unbound, which I'll go into below:
+
+Skyrim Unbound has been removed in favor of [Paradigm - A Quick Start Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85939). I'm sure a lot of players will miss the added RP elements that unbound brings, but as soon as I saw Paradigm release I was ready to make the switch. Although you lose the ability to start anywhere (which I think is actually a good thing for this list, I'll talk about that later), Paradigm adds a wonderful and seamless class system reminscent of previous TES games. Unlike other class mods, the classes don't provide overpowered new perks or abilities. They simply change what your starting gear is at the beginning of the game. All the options are very balance and in my opinion makes up for the lack of being able to choose a starting location. Plus, I've actually come to realize that I don't think its a great idea to allow the player to start anywhere with this list. Since the list is based around being unleveled, some starting areas would be near impossible to take on from level one (I learned this the hard way), so the player will have to resort to going to starting areas like Riverwood or Whiterun just to begin to progress. I hope that makes sense :)
 
 Added:
 - SimonRim Attack Speed Fix
@@ -41,6 +43,25 @@ Added:
 - Unique Red Wave
 - Mystireous Dawn's HQ Imperial Fort
 - Happy Little Trees - Vanilla Style Snow
+- Cathedral 3D Mountain Flowers Resized and Desaturated
+- Detailed NPCs - Fishing Gear for NPCs
+- Detailed NPCs - Chain and Shackles for NPCs
+- Detailed NPCs - Bandages for NPCs
+- Sharpen Other Swords - Better Shaped Weapons Patch
+- Yellow Mountain Flowers for Skyrim Fields
+- Dunmeri Outfits for Skyrim Dunmer
+- Immersive Patrols Lite
+- SkyTEST Realistic Animals and Predators Lite (edited to fix bugs)
+- No More Floating Fog
+- Natura
+- Lunaris
+- Abyss
+- Bloodmoon
+- Flames of Coldharbour
+- Necrom
+- Subsurface Scattering Shaders for Skins
+- Improvement Names Customized 
+- Adamant Smithing Addon (works fine without Adamant and pairs very well with Master of One)
 - A handful of random simple xEdit patches that were missed on the first go-around 
 
 Updated:
@@ -51,6 +72,14 @@ Updated:
 - Landscape and Water Fixes
 - Favor Jobs Overhaul
 - Forceful Tongue
+- Lux
+- Lux Orbis
+- Lux Via
+- Thieves Night on the Town
+- Environs - Western Watchtower Doesn't Stay Broken
+- Skyrim Configuration Menu
+- Lowered grass distance in the performance INI, should be 10x better now
+- Compressed/optimized a handful of texture mods (shouldn't be any noticeable quality drop but let me know)
 - Moonshadow Patches
 - Moonshadow Synthesis
 - Moonshadow Nemesis
