@@ -17,7 +17,7 @@
 
 The first of (hopefully very few) major and non-save safe updates. Sorry to anyone who already started a playthrough! If you are fond of your character however you can just stick with version 1.0.2, it is still perfectly functional. Perhaps the biggest change is removing Skyrim Unbound, which I'll go into below:
 
-Skyrim Unbound has been removed in favor of [Paradigm - A Quick Start Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85939). I'm sure a lot of players will miss the added RP elements that unbound brings, but as soon as I saw Paradigm release I was ready to make the switch. Although you lose the ability to start anywhere (which I think is actually a good thing for this list, I'll talk about that later), Paradigm adds a wonderful and seamless class system reminscent of previous TES games. Unlike other class mods, the classes don't provide overpowered new perks or abilities. They simply change what your starting gear is at the beginning of the game. All the options are very balance and in my opinion makes up for the lack of being able to choose a starting location. Plus, I've actually come to realize that I don't think its a great idea to allow the player to start anywhere with this list. Since the list is based around being unleveled, some starting areas would be near impossible to take on from level one (I learned this the hard way), so the player will have to resort to going to starting areas like Riverwood or Whiterun just to begin to progress. I hope that makes sense :)
+Skyrim Unbound has been removed in favor of [Paradigm - A Quick Start Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85939). I'm sure a lot of players will miss the added RP elements that unbound brings, but as soon as I saw Paradigm release I was ready to make the switch. Although you lose the ability to start anywhere (which I think is actually a good thing for this list, I'll talk about that later), Paradigm adds a wonderful and seamless class system reminscent of previous TES games. Unlike other class mods, the classes don't provide overpowered new perks or abilities. They simply change what your starting gear is at the beginning of the game. All the options are very balance and in my opinion makes up for the lack of being able to choose a starting location. Plus, I've actually come to realize that I don't think its a great idea to allow the player to start anywhere with this list. Since the list is based around being unleveled, some starting areas would be near impossible to take on from level one (I learned this the hard way) due to the high level enemies, so the player will have to resort to going to starting areas like Riverwood or Whiterun anyways just to begin to progress. I hope that makes sense :)
 
 Added:
 - SimonRim Attack Speed Fix
@@ -63,6 +63,9 @@ Added:
 - Improvement Names Customized 
 - Adamant Smithing Addon (works fine without Adamant and pairs very well with Master of One)
 - A handful of random simple xEdit patches that were missed on the first go-around 
+
+Removed:
+- Honed Metal + Addons (overall was not happy with the implementation and balance of this feature. Felt rather clunky and very much like a mod, which I want to try to avoid
 
 Updated:
 - Diverse Cathedral Dragons Tongue
