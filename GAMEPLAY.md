@@ -13,10 +13,6 @@
 
 # Gameplay Guide
 
-## Overview
-
-Moonshadow is built around "double-edged" gameplay, meaning that racial abilities, standing stones, and even perks come with both positives and negatives. Building a character is no longer about simply filling out a perk tree and getting numbers as high as possible. Intense thought and strategy need to go into building a character and leveling. Immersion and roleplaying are paramount to Moonshadow. Live life as you see fit. Are you the one and only Dragonborn destined to save the world? Or perhaps you're a simple blacksmith just trying to make an honest living in Skyrim? Explore the harsh and unforgiving land of Skyrim however you see fit. Moonshadow prioritizes simple and intuitive mechanics. The goal is for the player to not need to break their immersion and pace of play by having to check a wiki to figure out how to complete simple tasks. If you have any suggestions for mechanics that need better explaining in-game, let me know! 
-
 This guide highlights major mods included in Moonshadow in the following categories:
 
 - [Hotkeys](#hotkeys)
@@ -26,7 +22,26 @@ This guide highlights major mods included in Moonshadow in the following categor
 
 ## Hotkeys
 
-W.I.P.
+Keybinds can be edited either through the in-game controls menu or the Mod Configuration Menu.
+
+<kbd>V</kbd> **Vanilla:** Creates an auto-save. Vanilla auto-saves are disabled by default so make sure you use this! 
+
+<kbd>X</kbd> **Toggle Compass Hotkey:** Toggles visibility of the compass
+
+<kbd>Mouse 3</kbd> **True Directional Movement:** Toggles target lock
+
+<kbd>Mouse 4 and 5</kbd> **True Directional Movement:** Cycle target lock right and left
+
+<kbd>L</kbd> **Quick Light:** Activate your lantern
+
+<kbd>G</kbd> **SunHelm:** Drink/fill bottles from a body of water
+
+<kbd>B</kbd> **SunHelm:** Toggles the visibilty of the hardcore needs indicators
+
+<kbd>H</kbd> **Taunt Your Enemies:** "Taunt" enemies, leaving you vunerable for a short period of time but granting a short damage boost
+
+
+
 
 ## Gameplay
 
@@ -36,11 +51,11 @@ Moonshadow is built around a few core mods that overhaul the traditional gamepla
 
 - [Master of One](https://www.nexusmods.com/skyrimspecialedition/mods/47024) - A perk overhaul that transforms perks from generic character progression into a means to craft unique and specialized builds. Perks are no longer flat bonuses, but rather come with buffs and debuffs to encourage specialization and thorough character building. Completely transforms character building and progression whilst only utilizing the vanilla perk and leveling system. All perks have five ranks. The first rank of any given perk will not have any debuffs. The remaining four ranks will provide steady buffs but exponentially increasing debuffs as well. Maxing out every perk in any given tree might not be best for your character, so be careful!
 
-  > With Moonshadow, you will start the game with two free perk points. Choose wisely! You will also recieve two perk points per level which is the value recommended by Master of One. This is configurable via the MCM.
+  > With Moonshadow, you will recieve two perk points per level which is the value recommended by Master of One. This is configurable via the MCM.
 
 - [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415) - An overhaul of the racial abilities and bonuses in the same vain as Master of One. All races have positives and negatives.
 
-  > :ledger: By default, Legacy lets you choose a racial bonus reguardless of your chosen race. This feature is removed in Moonshadow, but if you so please you can change your racial ability in the MCM. 
+  > By default, Legacy lets you choose a racial bonus reguardless of your chosen race. This feature is removed in Moonshadow, but if you so please you can change your racial ability in the MCM. 
 
 - [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) - An overhaul of the Standing Stones in the same vein as Legacy and Master of One.
 
@@ -62,9 +77,9 @@ Moonshadow is built around a few core mods that overhaul the traditional gamepla
 
 ### New Mechanics
 
-- [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859) - Unpauses all game menus. Make sure you come prepared!
+- [Paradigm - A Quick Start Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85939) - Adds a simple and balanced class system to the game reminiscent of previous Elder Scrolls games. Also skips the vanilla Helgen intro and adds the option to escape from Helgen alone (without either Hadvar or Ralof), essentially not auto-starting the first act of the main quest and allowing more roleplay oppurtunities for non-Dragonborn characters. 
 
-- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) - An alternate start mod with a wide range of options, including the ability to play as a non-Dragonborn character
+- [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859) - Unpauses all game menus. Make sure you come prepared!
 
 - [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) - All in one survival and needs mod focused on being as simple and streamlined possible.
 
@@ -77,8 +92,6 @@ Moonshadow is built around a few core mods that overhaul the traditional gamepla
 - [Acolyte](https://www.nexusmods.com/skyrimspecialedition/mods/75269) - Shrines and amulets allow the player to accept a divine covenant with a god. At low devotion, the covenant is costly to the player, providing an obstacle to work through as proof of your faith. At high devotion, the covenant is extremely beneficial with five powerful gifts for each divine.
 
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) - Adds a large number of localized radiant quests found at Missive Boards in towns and cities. Very useful for low-level characters getting started. 
-
-- [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/80705) - ALlows blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment.
 
 - [Simple Degredation](https://www.nexusmods.com/skyrimspecialedition/mods/74790) - Adds a simple weapon condition system based on the vanilla tempering system. Tempered items will slowly degrade back to the untempered state over time. Items will never break, only degrade back to their base version. 
 
