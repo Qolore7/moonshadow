@@ -13,7 +13,7 @@
 
 # Changelog
 
-## Version 1.1.0 (unreleased)
+## Version 1.1.0
 
 The first of (hopefully very few) major and non-save safe updates. Sorry to anyone who already started a playthrough! If you are fond of your character however you can just stick with version 1.0.2, it is still perfectly functional. Perhaps the biggest change is removing Skyrim Unbound, which I'll go into below:
 
@@ -21,6 +21,8 @@ Skyrim Unbound has been removed in favor of [Paradigm - A Quick Start Overhaul](
 
 Added:
 - Penitus Oculatus
+- Reading is Good
+- Survival Configuration Menu
 - SimonRim Attack Speed Fix
 - NPCs Ain't Hachikos 
 - Robber's Gorge Fixes
@@ -39,6 +41,7 @@ Added:
 - HD Reworked Horses
 - PELTAPALOOZA
 - RUGNAROK
+- Cathedral 3D Thicket and Dead Shrub
 - Spaghetti's Dragon Bridge
 - The Dragon Bridge
 - Unique Red Wave
@@ -86,6 +89,9 @@ Updated:
 - Skyrim Configuration Menu
 - Lowered grass distance in the performance INI, should be 10x better now
 - Compressed/optimized a handful of texture mods (shouldn't be any noticeable quality drop but let me know)
+- Tweaked default INI settings
+- AI Overhaul (custom tweaked agression values)
+- Animated Forge Water (fixed overly-bright forge)
 - Moonshadow Patches
 - Moonshadow Synthesis
 - Moonshadow Nemesis
