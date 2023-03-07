@@ -11,20 +11,19 @@
 
 ---
 
-# Installation
+# Read-Me
 
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
-  - [Pre-Install](#pre-install)
-    - [Starting the Game](#starting_skyrim)
+    - [Starting the Game](#starting-skyrim)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Startup](#startup)
 - [Credits](#credits)
 
-# Introduction
+## Introduction
 
 Moonshadow is an extremely lightweight and performance friendly modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preperation and strategy. Moonshadow's design philosophy can be broken down into five core pillars:
 
@@ -46,7 +45,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 - An fresh installation of the **English** version of the game with the free anniversary upgrade from **Steam**
   * Only the English Steam version is the only supported version. I understand that this may be frustrating for non-English speaking users or users with the  GOG/Bethesda.net versions, but due to the core file differences between the different versions, only one version can be supported. 
-  * The game MUST be installed outside of any default Windows folders, such as _Program Files_, your _Desktop_, or _Documents_. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
+  * The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 - [Microsoft Visual C++ Redistributable Package](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
@@ -59,25 +58,21 @@ Start the game and exit once you're at the main menu. This will ensure any setti
 
 ## Downloading and Installing
 
-The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a little while (an hour or more) depending on your system specs. For optimal speed, it is advised to install Wabbajack and the modlist to an SSD.
 
-1. Create a folder for the modist outside of any default Windows folders called "Moonshadow" (I recommend _C:\Games\Moonshadow_) 
-2. Download the latest release of `Moonshadow` from the [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/85896) page and extract the .wabbajack file from the archive to your _Wabbajack_ folder
+1. Create a folder for the modist outside of any default Windows folders called **Moonshadow** (I recommend `C:\Games\Moonshadow`) 
+2. Download the latest release of `Moonshadow` from the [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/85896) page and extract the **.wabbajack** file from the archive to your `Wabbajack` folder
 3. Launch the Wabbajack app
-4. In the `Target Modlist` box, select the .wabbajack file you downloaded in the previous step
-5. In the `Modlsit Installation Location` box, select the _Moonshadow_ folder you created in the first step
-  * The Resource Download Location box should automatically fill in _Moonshadow\Downloads_, but you can move this folder to a different drive if are low on space
+4. In the **Target Modlist** box, select the .wabbajack file you downloaded in the previous step
+5. In the **Modlist Installation Location** box, select the `Moonshadow` folder you created in the first step
+  * The Resource Download Location box should automatically fill in `Moonshadow\Downloads`, but you can move this folder to a different drive if are low on space
 6. Click the Go/Begin button and wait for Wabbajack to finish
 
 ## Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you won't lose any progress.
 
-Seriously, simply retrying the Wabbajack download fixes most problems.
-
-**Wabbajack could not find my game folder**:
-
-Wabbajack will not work with non-English and non-Steam versions of the game. 
+**REMINDER:** This list does not work with non-English and non-Steam versions of the game. 
 
 If you have any other installation issues, I may need to update the list. Please drop by the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server to report any errors!
 
