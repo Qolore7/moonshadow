@@ -66,6 +66,7 @@ These are just the highlights, there are many more mods included!
 ### New Content
 - **Creation Club Content** - A highly curated selection of the paid creations are used in Moonshadow. All of the new armor and crossbow creations are fully integrated by Requiem. Moonshadow also integrates Camping, Backpacks, Fishing, and Farming, which have all been rebalanced and tweaked to better fit the modlist.
 - [COIN - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) + [Pilgrim - Divine Restrictions](https://www.nexusmods.com/skyrimspecialedition/mods/88814)
 - [Siberpunk's "Environs" Mods](https://www.nexusmods.com/skyrimspecialedition/users/36774500)
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
