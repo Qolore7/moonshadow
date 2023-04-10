@@ -39,64 +39,37 @@ Keybinds can be edited either through the in-game controls menu or the Mod Confi
 
 <kbd>Mouse 4 and 5</kbd> **True Directional Movement:** Cycle target lock right and left
 
-<kbd>L</kbd> **Quick Light:** Activate your lantern
-
 <kbd>G</kbd> **SunHelm:** Drink/fill bottles from a body of water
-
-<kbd>B</kbd> **SunHelm:** Toggles the visibilty of the hardcore needs indicators
-
-
-
-
 
 
 ## Gameplay
 
 These are just the highlights, there are many more mods included!
 
+### Requiem
+[Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) is the core mod that this modlist is based upon. If you are unfamiliar with the mod and want to learn more, I highly recommend watching [Greed Gaming's great breakdown video](https://www.youtube.com/watch?v=fG7D8meR0cY). Please note that some of the features talked about in the video are changed in Moonshadow, such as nerfing Alchemy, but it still captures the main features. [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342) is a small Requiem addon mod updated and maintained by one of the lead Requiem devs that aims to increase roleplaying opportunities and flesh out otherwise lacking areas of the game. [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302) completely rebalances all schools of magic in Requiem and adds many new viable spells and build options. [Requiem - Noxcrab's Tweaks] is used to nerf alchemy, making hunting a more viable playstyle, and tweak various resistence and regeneration stats on enemies to create a more balanced experience. Perhaps most notably, there are no mods in this list that try to intgrate the Dragonborn DLC into Requiem. After testing, I was unhappy with any mods that attempted to do so and decided that it would be best to ignore the DLC until it is officially adressed by Requiem.
+
 ### Progression
 
-Moonshadow is built around a few core mods that overhaul the traditional gameplay and progression of Skyrim without adding unfair, confusing, or poorly-implemented mechanics/features. 
-
 - [Paradigm - A Quick Start Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85939)
-- [Master of One](https://www.nexusmods.com/skyrimspecialedition/mods/47024)
-- [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748)
-
-  > Moonshadow Custom Config: Four shards per perk point, quest disabled
-- [Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/36415)
-
-  > Moonshadow Custom Config: By default, Legacy lets you choose a racial bonus reguardless of your chosen race. This feature is removed in Moonshadow, but if you so please you can change your racial ability in the MCM. 
-- [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419)
-- [Skyrim Revamped - Loot and Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/14338)
-- [Vyn Exports - Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219)
-- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
-- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
-- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746)
-- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-- [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138)
-- [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
-- [Acolyte](https://www.nexusmods.com/skyrimspecialedition/mods/75269)
 - [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
 ### Combat
-
 - [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
-- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
-- [Elden Parry](https://www.nexusmods.com/skyrimspecialedition/mods/70240)
-- [Shield of Stamina - Blocking Redux](https://www.nexusmods.com/skyrimspecialedition/mods/62137)
-- [Know Your Enemies Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) & [Know Your Enemies Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55045)
-- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276)
+- [Valravn](https://www.nexusmods.com/skyrimspecialedition/mods/53869) (only the movement and AI changes are used as Requiem already covers the rest)
+- [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345) along with [RAID Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116) and [Ambiance](https://www.nexusmods.com/skyrimspecialedition/mods/46383) to create the most balanced AI detection possible
 - [No Saving in Combat](https://www.nexusmods.com/skyrimspecialedition/mods/29914)
-- [Vestige - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/85301)
-- [Simple Degredation](https://www.nexusmods.com/skyrimspecialedition/mods/74790) (optional)
+- [Simple Degredation](https://www.nexusmods.com/skyrimspecialedition/mods/74790)
 
 ### New Content
-
-- [Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+- **Creation Club Content** - A highly curated selection of the paid creations are used in Moonshadow. All of the new armor and crossbow creations are fully integrated by Requiem. Moonshadow also integrates Camping, Backpacks, Fishing, and Farming, which have all been rebalanced and tweaked to better fit the modlist.
+- [COIN - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- [Siberpunk's "Environs" Mods](https://www.nexusmods.com/skyrimspecialedition/users/36774500)
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)
 - [Dark Brotherhood Rising Revengence](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 - [Jayserpa's Quest Expansions & More](https://www.nexusmods.com/skyrimspecialedition/users/5201727)
-- [Darenii's Spell Packs](https://www.nexusmods.com/skyrimspecialedition/users/5073294)
 
 And many, many more small changes and tweaks that are best discovered on your own!
