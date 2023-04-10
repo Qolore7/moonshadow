@@ -25,15 +25,15 @@
 
 ## Introduction
 
-Moonshadow is an extremely lightweight and performance friendly modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preperation and strategy. Moonshadow's design philosophy can be broken down into five core pillars:
+Moonshadow is an extremely lightweight and performance friendly Requiem-based modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preperation and strategy. Moonshadow's design philosophy can be broken down into four core pillars:
 
 Performance/stability: In my opinion, smooth and satisfying gameplay starts with a consistently high framerate and no crashes. Moonshadow is built to be one of the best performaning modlists you can install while still looking very good. Moonshadow is designed for 60 FPS on low-end PCs and 144 FPS on mid to high-end PCs. 
 
 Consistency: Moonshadow attempts to overhaul the game while still creating a cohesive and consistent experience across the board. Both gameplay and visual mods have been carefully picked and tweaked to mesh with eachother as much as possible. Moonshadow prioritizes simple and intuitive mechanics. The goal is for the player to not need to break their immersion and pace of play by having to check a wiki to figure out how to complete simple tasks.
 
-Overhauled Progression: Vanilla and even "vanilla+" progression can be very boring and predictable. The beginning of the game is a bit tough until you get a few levels and some quality gear, the mid-game is very easy due to the player's perks and gear plus the lack of enemy variety, then the late game tends to become rather grindy as the enemies become very tanky in an attempt to counter-act the player's god-like arsenal. Moonshadow aims to smooth out this progression and create a much more difficult but rewarding character building experience. Moonshadow is built around "double-edged" gameplay, meaning that racial abilities, standing stones, and even perks come with both positives and negatives. Character progression is no longer about simply filling out a perk tree and getting numbers as high as possible. Intense thought and strategy need to go into building a character and leveling. Balanced builds will create a consistently difficult experience whereas heavily specialized builds will be much more difficult early-game, but can become absurdly powerful by the end game.
+Overhauled Progression: Vanilla and even "vanilla+" progression can be very boring and predictable. The beginning of the game is a bit tough until you get a few levels and some quality gear, the mid-game is very easy due to the player's perks and gear plus the lack of enemy variety, then the late game tends to become rather grindy as the enemies become very tanky in an attempt to counter-act the player's god-like arsenal. Moonshadow aims to smooth out this progression and create a much more difficult but rewarding character building experience. In addition to [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), the mod [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410) is used to provide a skill system similar to a game like Fallout New Vegas. Skills no longer increase simply from doing a related activity. Instead, the player is prompted with a menu to increase the skills of their choice upon level up. This removes the common issue of Skyrim progression (especially with Requiem) of grinding tedious tasks to level up your skills as quickly as possible. Since you no longer get XP for leveling up skills, the mod [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is used to simulate a similar XP system to most RPGs where you gain XP for killing enemies, completing quests, and more.
 
-Roleplay: The biggest part of what has kept Skyrim fresh for me and many others after all these years is the character building and roleplay elements. In Moonshadow, you can live life as you see fit. Are you the one and only Dragonborn destined to save the world? Or perhaps you're a simple blacksmith just trying to make an honest living in Skyrim? Explore the harsh and unforgiving land of Skyrim however you see fit. Effort has gone in to making any type of build viable - and most importantly - fun. For example, "good-guy" options have been added to many quests that lacked them like various Daedric quests and the Dark Brotherhood questline.
+Roleplay: The biggest part of what has kept Skyrim fresh for me and many others after all these years is the character building and roleplay elements. In Moonshadow, you can live life as you see fit. Are you the one and only Dragonborn destined to save the world? Or perhaps you're a simple blacksmith just trying to make an honest living in Skyrim? Explore the harsh and unforgiving land of Skyrim however you see fit. Moonshadow tries to eliminate any elements of meta-gaming that are especially common in hardcore mods like Requiem. Effort has gone in to making any type of build viable - and most importantly - fun. For example, "good-guy" options have been added to many quests that lacked them like various Daedric quests and the Dark Brotherhood questline.
 
 ## List Contents
 
@@ -43,8 +43,9 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 ## Requirements:
 
-- An fresh installation of the **English** version of the game with the free anniversary upgrade from **Steam**
-  * Only the English Steam version is the only supported version. I understand that this may be frustrating for non-English speaking users or users with the  GOG/Bethesda.net versions, but due to the core file differences between the different versions, only one version can be supported. 
+- An fresh installation of the **English** version of the game with the full paid Anniversary Upgrade DLC from Steam or GOG
+  * The paid Anniversary Upgrade is required, full stop.
+  * Only the English version is supported. I understand that this may be frustrating for non-English speaking users, but due to the core file differences between the different versions, only one version can be supported. 
   * The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 - [Microsoft Visual C++ Redistributable Package](https://aka.ms/vs/16/release/vc_redist.x64.exe)
@@ -54,7 +55,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 # Installation:
 
 ## Starting Skyrim
-Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
 
 ## Downloading and Installing
 
@@ -72,13 +73,16 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you won't lose any progress.
 
-**REMINDER:** This list does not work with non-English and non-Steam versions of the game. 
+**REMINDER:** This list does not work with non-English and non-Steam/GOG versions of the game. 
 
 If you have any other installation issues, I may need to update the list. Please drop by the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server to report any errors!
 
 # Startup
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
+
+IMPORTANT:
+If you use the GOG version of the game, activate all the mods under the **GOG Support** separator
 
 Make sure the dropdown box on the right is set to `Moonshadow` and press the Run button.
 
