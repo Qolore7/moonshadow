@@ -20,6 +20,7 @@ This guide highlights major mods included in Moonshadow in the following categor
   - [Progression](#progression)
   - [Combat](#combat)
   - [New Content](#new-content)
+  - [Requiem](#requiem)
 
 ## Hotkeys
 
@@ -47,7 +48,7 @@ Keybinds can be edited either through the in-game controls menu or the Mod Confi
 These are just the highlights, there are many more mods included!
 
 ### Requiem
-[Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) is the core mod that this modlist is based upon. If you are unfamiliar with the mod and want to learn more, I highly recommend watching [Greed Gaming's great breakdown video](https://www.youtube.com/watch?v=fG7D8meR0cY). Please note that some of the features talked about in the video are changed in Moonshadow, such as nerfing Alchemy, but it still captures the main features. [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342) is a small Requiem addon mod updated and maintained by one of the lead Requiem devs that aims to increase roleplaying opportunities and flesh out otherwise lacking areas of the game. [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302) completely rebalances all schools of magic in Requiem and adds many new viable spells and build options. [Requiem - Noxcrab's Tweaks] is used to nerf alchemy, making hunting a more viable playstyle, and tweak various resistence and regeneration stats on enemies to create a more balanced experience. Perhaps most notably, there are no mods in this list that try to intgrate the Dragonborn DLC into Requiem. After testing, I was unhappy with any mods that attempted to do so and decided that it would be best to ignore the DLC until it is officially adressed by Requiem.
+[Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) is the core mod that this modlist is based upon. If you are unfamiliar with the mod and want to learn more, I highly recommend watching [Greed Gaming's great breakdown video](https://www.youtube.com/watch?v=fG7D8meR0cY). Please note that some of the features talked about in the video are changed in Moonshadow, such as nerfing Alchemy, but it still captures the main features. [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342) is a small Requiem addon mod updated and maintained by one of the lead Requiem devs that aims to increase roleplaying opportunities and flesh out otherwise lacking areas of the game. [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302) completely rebalances all schools of magic in Requiem and adds many new viable spells and build options. [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591) is used to nerf alchemy, making hunting a more viable playstyle, and tweak various resistence and regeneration stats on enemies to create a more balanced experience. Perhaps most notably, there are no mods in this list that try to intgrate the Dragonborn DLC into Requiem. After testing, I was unhappy with any mods that attempted to do so and decided that it would be best to ignore the DLC until it is officially adressed by Requiem.
 
 ### Progression
 
