@@ -13,6 +13,17 @@
 
 # Changelog
 
+## Version 1.0.1
+
+Updated:
+- Keyword Item Distributor
+- ERM Optional Rock Retexture
+- Cathedral 3D Mountain Flowers - Base Objects Swapper
+- Unique Towns - Base Object Swapper
+- Natural Waterfalls
+- Pilgrim - Divine Restrictions
+- Formlist Manipulator
+
 ## Version 1.0.0
 
 (Re)Release :)
