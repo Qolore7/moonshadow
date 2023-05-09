@@ -7,6 +7,7 @@
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
+  <a href="https://discord.gg/SZGAXZYtHf">Discord</a> .
 </p>
 
 ---
@@ -76,7 +77,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **REMINDER:** This list does not work with non-English and non-Steam/GOG versions of the game. 
 
-If you have any other installation issues, I may need to update the list. Please drop by the [Viva New Vegas](https://discord.gg/DhX5S27) Discord server to report any errors!
+If you have any other installation issues, I may need to update the list. Please drop by the [Discord](https://discord.gg/SZGAXZYtHf) to report any errors!
 
 # Startup
 
