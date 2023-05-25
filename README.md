@@ -63,13 +63,12 @@ Start the game and exit once you're at the main menu. This will ensure any setti
 The download and installation process can take a little while (an hour or more) depending on your system specs. For optimal speed, it is advised to install Wabbajack and the modlist to an SSD.
 
 1. Create a folder for the modist outside of any default Windows folders called **Moonshadow** (I recommend `C:\Games\Moonshadow`) 
-2. Download the latest release of `Moonshadow` from the [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/85896) page and extract the **.wabbajack** file from the archive to your `Wabbajack` folder
-3. Launch the Wabbajack app and select `Browse Modlists`
-4. Make sure `Show Unofficial Lists` is checked and search for `Moonshadow`
-5. Select the **Download** icon in the bottom right, then select he **Play** icon once the download is finished
-7. In the **Modlist Installation Location** box, select the `Moonshadow` folder you created in the first step
+2. Launch the Wabbajack app and select `Browse Modlists`
+3. Make sure `Show Unofficial Lists` is checked and search for `Moonshadow`
+4. Select the **Download** icon in the bottom right, then select he **Play** icon once the download is finished
+5. In the **Modlist Installation Location** box, select the `Moonshadow` folder you created in the first step
   * The Resource Download Location box should automatically fill in `Moonshadow\Downloads`, but you can move this folder to a different drive if are low on space
-8. Click the Go/Begin button and wait for Wabbajack to finish
+6. Click the Go/Begin button and wait for Wabbajack to finish
 
 ## Problems with Wabbajack
 
