@@ -26,7 +26,7 @@
 
 ## Introduction
 
-Moonshadow is an extremely lightweight and performance friendly Requiem-based modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preperation and strategy. Moonshadow's design philosophy can be broken down into four core pillars:
+Moonshadow is an extremely lightweight and performance friendly Requiem-based modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preparation and strategy. Moonshadow's design philosophy can be broken down into four core pillars:
 
 **Performance/stability:** In my opinion, smooth and satisfying gameplay starts with a consistently high framerate and no crashes. Moonshadow is built to be one of the best performaning modlists you can install while still looking very good. Moonshadow is designed for 60 FPS on low-end PCs and 144 FPS on mid to high-end PCs. 
 
