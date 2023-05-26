@@ -18,9 +18,9 @@
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
+    - [Clean Install](#clean-install)
     - [Starting the Game](#starting-skyrim)
     - [Downloading and Installing](#downloading-and-installing)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Startup](#startup)
 - [Credits](#credits)
 
@@ -55,6 +55,9 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 # Installation:
 
+## Clean Install
+Lost Liberty requires a completely clean installation of Skyrim Special Edition. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Skyrim Special Edition` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents.` If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
+
 ## Starting Skyrim
 Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
 
@@ -69,14 +72,6 @@ The download and installation process can take a little while (an hour or more) 
 5. In the **Modlist Installation Location** box, select the `Moonshadow` folder you created in the first step
   * The Resource Download Location box should automatically fill in `Moonshadow\Downloads`, but you can move this folder to a different drive if are low on space
 6. Click the Go/Begin button and wait for Wabbajack to finish
-
-## Problems with Wabbajack
-
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you won't lose any progress.
-
-**REMINDER:** This list does not work with non-English and non-Steam/GOG versions of the game. 
-
-If you have any other installation issues, I may need to update the list. Please drop by the [Discord](https://discord.gg/VXvZWsxzEG) to report any errors!
 
 # Startup
 
