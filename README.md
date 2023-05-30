@@ -59,7 +59,12 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 Lost Liberty requires a completely clean installation of Skyrim Special Edition. This means completely deleting both the game folder and also the folder located in `Documents\My Games\Skyrim Special Edition` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents.` If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 ## Starting Skyrim
-Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
+1. Run the launcher from Steam/GOG
+2. There should be two pop-ups about detecting your hardware and applying settings. You do not need to change settings here, as settings will be set automatically by the installer
+ > If you do not see any pop-ups, you did not properly do a clean installation! Delete `Documents\My Games\Skyrim Special Edition` and try again
+3. Run the game and proceed to the main menu where you will be prompted to download all the Creation Club content from the Anniversary Upgrade
+ > If you do not get a prompt about downloading Creation Club content, you likely do not have the paid Anniversary Upgrade which is required for this list!
+4. Once all of the downloads are finished, exit the game and proceed with the installation
 
 ## Downloading and Installing
 
@@ -80,7 +85,7 @@ Open the installation folder and double click on the program called `ModOrganize
 IMPORTANT:
 If you use the GOG version of the game, activate all the mods under the **GOG Support** separator
 
-Make sure the dropdown box on the right is set to `Moonshadow` and press the Run button.
+Make sure the dropdown box on the right is set to `SKSE` and press the Run button.
 
 You're all set! Everything is already configured by default so you can hope right into a new game!
 
